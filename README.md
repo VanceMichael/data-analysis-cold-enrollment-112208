@@ -12,6 +12,9 @@
 - `sites.json` 记录字段为 `site`、`window`、`chairs`、`wheelchair`、`staff`、`state`。
 - `coverage.json` 记录字段为 `block`、`eligible`、`reserved`、`prior_state`。
 - `seats.json` 记录字段为 `id`、`site`、`closing`、`window`、`phase`、`vehicle`。
+- `notifications.json` 记录字段为 `notice`、`block`、`site`、`slot`、`vehicle`、`state`、`revision`。
+- `queue.json` 记录字段为 `anonymous`、`site`、`arrive`、`leave`、`window`、`state`。
+- `disclosure.json` 记录字段为 `group`、`slots`、`min_group`、`share`。
 
 ## 运行
 

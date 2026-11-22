@@ -1,0 +1,38 @@
+[
+  {
+    "notice": "N1",
+    "block": "B1",
+    "site": "S2",
+    "slot": "101",
+    "vehicle": "V1",
+    "state": "送达",
+    "revision": "1"
+  },
+  {
+    "notice": "N2",
+    "block": "B3",
+    "site": "S2",
+    "slot": "101",
+    "vehicle": "V2",
+    "state": "未确认",
+    "revision": "1"
+  },
+  {
+    "notice": "N3",
+    "block": "B1",
+    "site": "S1",
+    "slot": "101",
+    "vehicle": "V1",
+    "state": "改派待确认",
+    "revision": "2"
+  },
+  {
+    "notice": "N4",
+    "block": "B2",
+    "site": "S1",
+    "slot": "101",
+    "vehicle": "V1",
+    "state": "改派待确认",
+    "revision": "2"
+  }
+]

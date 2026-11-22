@@ -1,0 +1,14 @@
+[
+  {
+    "group": "行动协助",
+    "slots": "W2+W3",
+    "min_group": "5",
+    "share": "仅本点"
+  },
+  {
+    "group": "普通入站",
+    "slots": "W2+W3",
+    "min_group": "3",
+    "share": "对外"
+  }
+]

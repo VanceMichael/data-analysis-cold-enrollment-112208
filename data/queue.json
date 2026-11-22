@@ -1,0 +1,34 @@
+[
+  {
+    "anonymous": "P4",
+    "site": "S2",
+    "arrive": "101",
+    "leave": "?",
+    "window": "W2",
+    "state": "等车"
+  },
+  {
+    "anonymous": "P10",
+    "site": "S2",
+    "arrive": "100",
+    "leave": "101",
+    "window": "W2",
+    "state": "离开"
+  },
+  {
+    "anonymous": "P11",
+    "site": "S2",
+    "arrive": "101",
+    "leave": "?",
+    "window": "W2",
+    "state": "在等"
+  },
+  {
+    "anonymous": "P1",
+    "site": "S1",
+    "arrive": "102",
+    "leave": "103",
+    "window": "W3",
+    "state": "再次入站"
+  }
+]
