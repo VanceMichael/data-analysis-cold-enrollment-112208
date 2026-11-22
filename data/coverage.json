@@ -1,0 +1,20 @@
+[
+  {
+    "block": "B1",
+    "eligible": "40",
+    "reserved": "3",
+    "prior_state": "有交通"
+  },
+  {
+    "block": "B2",
+    "eligible": "72",
+    "reserved": "5",
+    "prior_state": "断报"
+  },
+  {
+    "block": "B3",
+    "eligible": "61",
+    "reserved": "4",
+    "prior_state": "有交通"
+  }
+]

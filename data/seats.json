@@ -1,0 +1,18 @@
+[
+  {
+    "id": "A1",
+    "site": "S2",
+    "closing": "101",
+    "window": "W2",
+    "phase": "已接受",
+    "vehicle": "V1"
+  },
+  {
+    "id": "A2",
+    "site": "S1",
+    "closing": "101",
+    "window": "W2",
+    "phase": "已出发",
+    "vehicle": "V1"
+  }
+]

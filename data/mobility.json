@@ -1,0 +1,66 @@
+[
+  {
+    "block": "B1",
+    "site": "S1",
+    "slot": "100",
+    "vehicle": "V1",
+    "service": "轮椅",
+    "available": "true"
+  },
+  {
+    "block": "B1",
+    "site": "S2",
+    "slot": "101",
+    "vehicle": "V1",
+    "service": "轮椅",
+    "available": "true"
+  },
+  {
+    "block": "B2",
+    "site": "S1",
+    "slot": "101",
+    "vehicle": "V1",
+    "service": "普通",
+    "available": "false"
+  },
+  {
+    "block": "B2",
+    "site": "S2",
+    "slot": "101",
+    "vehicle": "V2",
+    "service": "普通",
+    "available": "true"
+  },
+  {
+    "block": "B3",
+    "site": "S2",
+    "slot": "101",
+    "vehicle": "V2",
+    "service": "普通",
+    "available": "true"
+  },
+  {
+    "block": "B1",
+    "site": "S1",
+    "slot": "90",
+    "vehicle": "V1",
+    "service": "轮椅",
+    "available": "true"
+  },
+  {
+    "block": "B2",
+    "site": "S2",
+    "slot": "90",
+    "vehicle": "V2",
+    "service": "普通",
+    "available": "true"
+  },
+  {
+    "block": "B2",
+    "site": "S2",
+    "slot": "91",
+    "vehicle": "V2",
+    "service": "普通",
+    "available": "false"
+  }
+]

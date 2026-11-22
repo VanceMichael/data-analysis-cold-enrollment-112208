@@ -1,0 +1,74 @@
+[
+  {
+    "anonymous": "P1",
+    "block": "B1",
+    "site": "S1",
+    "slot": "100",
+    "event": "接纳",
+    "window": "W1"
+  },
+  {
+    "anonymous": "P1",
+    "block": "B1",
+    "site": "S2",
+    "slot": "100",
+    "event": "转点",
+    "window": "W1"
+  },
+  {
+    "anonymous": "P2",
+    "block": "B2",
+    "site": "S1",
+    "slot": "100",
+    "event": "满员未接",
+    "window": "W1"
+  },
+  {
+    "anonymous": "P3",
+    "block": "B3",
+    "site": "S2",
+    "slot": "101",
+    "event": "接纳",
+    "window": "W2"
+  },
+  {
+    "anonymous": "P4",
+    "block": "B1",
+    "site": "S2",
+    "slot": "101",
+    "event": "轮椅预约",
+    "window": "W2"
+  },
+  {
+    "anonymous": "P5",
+    "block": "B1",
+    "site": "S1",
+    "slot": "90",
+    "event": "接纳",
+    "window": "W0"
+  },
+  {
+    "anonymous": "P6",
+    "block": "B2",
+    "site": "S2",
+    "slot": "90",
+    "event": "接纳",
+    "window": "W0"
+  },
+  {
+    "anonymous": "P7",
+    "block": "B2",
+    "site": "S2",
+    "slot": "90",
+    "event": "满员未接",
+    "window": "W0"
+  },
+  {
+    "anonymous": "P8",
+    "block": "B1",
+    "site": "S1",
+    "slot": "91",
+    "event": "接纳",
+    "window": "W0"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "site": "S1",
+    "window": "W1",
+    "chairs": "12",
+    "wheelchair": "2",
+    "staff": "E1",
+    "state": "营业"
+  },
+  {
+    "site": "S1",
+    "window": "W2",
+    "chairs": "10",
+    "wheelchair": "2",
+    "staff": "E1",
+    "state": "可延长"
+  },
+  {
+    "site": "S2",
+    "window": "W1",
+    "chairs": "10",
+    "wheelchair": "1",
+    "staff": "E2",
+    "state": "营业"
+  },
+  {
+    "site": "S2",
+    "window": "W2",
+    "chairs": "16",
+    "wheelchair": "1",
+    "staff": "E1",
+    "state": "临时关闭"
+  }
+]
