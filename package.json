@@ -8,6 +8,9 @@
   },
   "scripts": {
     "test": "node --test",
-    "data:check": "node --test test/data.test.js"
+    "data:check": "node --test test/data.test.js",
+    "blocks": "node src/cli.js blocks",
+    "reconcile": "node src/cli.js reconcile",
+    "briefing": "node src/cli.js briefing"
   }
 }
